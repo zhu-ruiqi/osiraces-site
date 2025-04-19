@@ -15,17 +15,17 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   margin: 10px 0 20px 0;
-  padding:40px 0;
+  padding: 40px 0;
   color: black;
   text-shadow: 3px 3px 1px rgb(173, 173, 173);
 }
 
 h3 {
   font-size: 30px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 p,
@@ -34,7 +34,6 @@ li {
   line-height: 1.5;
   letter-spacing: 1px;
   color: black;
-  
 }
 
 img {
