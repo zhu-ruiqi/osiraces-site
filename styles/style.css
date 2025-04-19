@@ -1,0 +1,46 @@
+html {
+  /* px means "pixels". The base font size is 10px. */
+  font-size: 20px;
+  /* font-family: PLACEHOLDER; */
+  font-family: "Roboto", sans-serif;
+  background-color: lightblue;
+}
+
+body {
+  width: 600px;
+  margin: 10px auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 3px solid rgb(118, 118, 118);
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding:40px 0;
+  color: black;
+  font-family: PLACEHOLDER;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p,
+li {
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  color: black;
+  
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: 200px;
+  border-radius: 100px;
+  box-shadow: 5px 5px 10px rgb(75, 75, 75);
+}
